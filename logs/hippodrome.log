@@ -1,86 +1,19 @@
-2024-11-18 15:08:38,959 ERROR Hippodrome: Horses list is null
-2024-11-18 15:08:39,019 ERROR Horse: Name is blank
-2024-11-18 15:08:39,025 ERROR Horse: Name is blank
-2024-11-18 15:08:39,027 ERROR Horse: Name is blank
-2024-11-18 15:08:39,029 ERROR Horse: Name is blank
-2024-11-18 15:08:39,725 ERROR Horse: Name is null
-2024-11-18 15:09:12,320 ERROR Hippodrome: Horses list is null
-2024-11-18 15:09:21,222 ERROR Horse: Name is blank
-2024-11-18 15:09:21,241 ERROR Horse: Name is blank
-2024-11-18 15:09:21,244 ERROR Horse: Name is blank
-2024-11-18 15:09:21,247 ERROR Horse: Name is blank
-2024-11-18 15:09:21,953 ERROR Horse: Name is null
-2024-11-18 15:12:37,326 ERROR Horse: Name is blank
-2024-11-18 15:12:37,348 ERROR Horse: Name is blank
-2024-11-18 15:12:37,371 ERROR Horse: Name is blank
-2024-11-18 15:12:37,374 ERROR Horse: Name is blank
-2024-11-18 15:12:38,183 ERROR Horse: Name is null
-2024-11-18 15:13:05,689 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:05,895 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:06,102 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:06,310 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:06,514 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:06,721 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:06,926 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:07,132 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:07,333 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:07,541 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:07,747 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:07,951 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:08,159 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:08,365 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:08,570 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:08,776 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:08,982 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:09,189 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:09,395 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:09,601 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:09,804 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:10,005 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:10,209 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:10,415 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:10,620 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:10,827 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:11,032 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:11,235 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:11,442 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:11,647 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:11,855 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:12,060 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:12,262 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:12,464 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:12,671 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:12,876 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:13,082 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:13,288 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:13,494 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:13,702 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:13,909 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:14,113 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:14,317 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:14,524 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:14,729 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:14,937 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:15,142 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:15,346 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:15,552 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:15,758 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:15,961 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:16,166 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:16,368 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:31,295 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:31,508 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:31,710 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:31,913 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:32,118 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:32,324 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:32,531 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:32,738 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:32,944 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:33,146 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:33,352 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:33,553 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:33,756 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:33,959 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:34,166 INFO  Main: The beginning of the race. Number of participants: 7
-2024-11-18 15:13:34,374 INFO  Main: The beginning of the race. Number of participants: 7
+2024-11-20 16:27:37,032 ERROR Hippodrome: Horses list is null
+2024-11-20 16:27:37,053 ERROR Horse: Speed is negative
+2024-11-20 16:27:37,055 ERROR Horse: Distance is negative
+2024-11-20 16:27:37,092 ERROR Horse: Name is blank
+2024-11-20 16:27:37,097 ERROR Horse: Name is blank
+2024-11-20 16:27:37,099 ERROR Horse: Name is blank
+2024-11-20 16:27:37,101 ERROR Horse: Name is blank
+2024-11-20 16:27:37,103 ERROR Horse: Name is blank
+2024-11-20 16:27:37,105 ERROR Horse: Name is blank
+2024-11-20 16:27:37,108 ERROR Horse: Name is null
+2024-11-20 16:27:37,110 ERROR Horse: Distance is negative
+2024-11-20 16:27:37,112 ERROR Horse: Name is null
+2024-11-20 16:27:37,885 ERROR Horse: Speed is negative
+2024-11-20 16:27:37,890 ERROR Horse: Name is blank
+2024-11-20 16:27:37,894 ERROR Horse: Name is blank
+2024-11-20 16:27:37,897 ERROR Horse: Name is blank
+2024-11-20 16:27:37,900 ERROR Horse: Name is blank
+2024-11-20 16:27:37,903 ERROR Horse: Name is blank
+2024-11-20 16:27:37,906 ERROR Horse: Name is blank
