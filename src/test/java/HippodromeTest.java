@@ -14,6 +14,14 @@ class HippodromeTest {
     }
 
     @Test
+    void constructor_EmptyHorsesList_ShouldThrowException() {
+        IllegalArgumentException exception = assertThrows(IllegalArgumentException.class, () ->
+                new Hippodrome(List.of())
+        );
+        assertEquals("Horses cannot be empty.", exception.getMessage());
+    }
+
+    @Test
     void getWinner_ShouldReturnHorseWithMaxDistance() {
         Horse horse1 = new Horse("Horse1", 10, 100);
         Horse horse2 = new Horse("Horse2", 10, 200);
