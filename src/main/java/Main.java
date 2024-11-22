@@ -8,7 +8,7 @@ public class Main {
 
     private static final Logger logger = LogManager.getLogger(Main.class);
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         List<Horse> horses = List.of(
                 new Horse("Bucephalus", 2.4),
                 new Horse("Ace of Spades", 2.5),
@@ -19,19 +19,21 @@ public class Main {
                 new Horse("Cherry", 3)
         );
         Hippodrome hippodrome = new Hippodrome(horses);
+        logger.info("The beginning of the race. Number of participants: {}", hippodrome.getHorses().size());
 
         for (int i = 0; i < 100; i++) {
-            logger.info("The beginning of the race. Number of participants: {}", hippodrome.getHorses().size());
             hippodrome.move();
-            watch(hippodrome);
-            TimeUnit.MILLISECONDS.sleep(200);
+            try {
+                Thread.sleep(200);
+            } catch (InterruptedException e) {
+                Thread.currentThread().interrupt();
+                logger.error("Ошибка при выполнении Thread.sleep()", e);
+            }
         }
 
-        String winnerName = hippodrome.getWinner().getName();
-        System.out.println(winnerName + " wins!");
-
         Horse winner = hippodrome.getWinner();
-        logger.info("The end of the race. Winner: {}", winner.getName());
+        logger.info("Окончание скачек. Победитель: {}", winner.getName());
+        System.out.println("Победитель: " + winner.getName());
     }
 
     private static void watch(Hippodrome hippodrome) throws Exception {

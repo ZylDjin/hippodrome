@@ -1,0 +1,75 @@
+2024-11-21 15:21:11,470 ERROR Hippodrome: Horses list is null
+2024-11-21 15:21:11,494 ERROR Horse: Speed is negative
+2024-11-21 15:21:11,496 ERROR Horse: Distance is negative
+2024-11-21 15:21:11,533 ERROR Horse: Name is blank
+2024-11-21 15:21:11,539 ERROR Horse: Name is blank
+2024-11-21 15:21:11,541 ERROR Horse: Name is blank
+2024-11-21 15:21:11,543 ERROR Horse: Name is blank
+2024-11-21 15:21:11,546 ERROR Horse: Name is blank
+2024-11-21 15:21:11,548 ERROR Horse: Name is blank
+2024-11-21 15:21:11,551 ERROR Horse: Name is null
+2024-11-21 15:21:11,553 ERROR Horse: Distance is negative
+2024-11-21 15:21:11,558 ERROR Horse: Name is null
+2024-11-21 15:21:12,238 ERROR Horse: Speed is negative
+2024-11-21 15:21:12,244 ERROR Horse: Name is blank
+2024-11-21 15:21:12,247 ERROR Horse: Name is blank
+2024-11-21 15:21:12,250 ERROR Horse: Name is blank
+2024-11-21 15:21:12,252 ERROR Horse: Name is blank
+2024-11-21 15:21:12,256 ERROR Horse: Name is blank
+2024-11-21 15:21:12,259 ERROR Horse: Name is blank
+2024-11-21 15:28:48,910 ERROR Hippodrome: Horses list is null
+2024-11-21 15:28:48,920 ERROR Hippodrome: Horses list is empty
+2024-11-21 15:28:48,930 ERROR Horse: Speed is negative
+2024-11-21 15:28:48,932 ERROR Horse: Distance is negative
+2024-11-21 15:28:48,964 ERROR Horse: Name is blank
+2024-11-21 15:28:48,969 ERROR Horse: Name is blank
+2024-11-21 15:28:48,971 ERROR Horse: Name is blank
+2024-11-21 15:28:48,972 ERROR Horse: Name is blank
+2024-11-21 15:28:48,974 ERROR Horse: Name is blank
+2024-11-21 15:28:48,975 ERROR Horse: Name is blank
+2024-11-21 15:28:48,977 ERROR Horse: Name is null
+2024-11-21 15:28:48,978 ERROR Horse: Distance is negative
+2024-11-21 15:28:48,980 ERROR Horse: Name is null
+2024-11-21 15:28:49,676 ERROR Horse: Speed is negative
+2024-11-21 15:28:49,684 ERROR Horse: Name is blank
+2024-11-21 15:28:49,688 ERROR Horse: Name is blank
+2024-11-21 15:28:49,691 ERROR Horse: Name is blank
+2024-11-21 15:28:49,694 ERROR Horse: Name is blank
+2024-11-21 15:28:49,696 ERROR Horse: Name is blank
+2024-11-21 15:28:49,700 ERROR Horse: Name is blank
+2024-11-21 15:35:20,364 ERROR Hippodrome: Horses list is null
+2024-11-21 15:35:20,375 ERROR Hippodrome: Horses list is empty
+2024-11-21 15:35:20,381 ERROR Horse: Distance is negative
+2024-11-21 15:35:20,384 ERROR Horse: Name is null
+2024-11-21 15:35:20,419 ERROR Horse: Name is blank
+2024-11-21 15:35:20,425 ERROR Horse: Name is blank
+2024-11-21 15:35:20,427 ERROR Horse: Name is blank
+2024-11-21 15:35:20,429 ERROR Horse: Name is blank
+2024-11-21 15:35:20,430 ERROR Horse: Name is blank
+2024-11-21 15:35:21,263 ERROR Horse: Distance is negative
+2024-11-21 15:35:21,266 ERROR Horse: Name is null
+2024-11-21 15:35:21,273 ERROR Horse: Name is blank
+2024-11-21 15:35:21,275 ERROR Horse: Name is blank
+2024-11-21 15:35:21,277 ERROR Horse: Name is blank
+2024-11-21 15:35:21,279 ERROR Horse: Name is blank
+2024-11-21 15:35:21,280 ERROR Horse: Name is blank
+2024-11-21 15:35:21,297 ERROR Horse: Speed is negative
+2024-11-21 15:35:21,299 ERROR Horse: Speed is negative
+2024-11-21 15:50:24,553 ERROR Hippodrome: Horses list is null
+2024-11-21 15:50:24,564 ERROR Hippodrome: Horses list is empty
+2024-11-21 15:50:24,570 ERROR Horse: Distance is negative
+2024-11-21 15:50:24,572 ERROR Horse: Name is null
+2024-11-21 15:50:24,600 ERROR Horse: Name is blank
+2024-11-21 15:50:24,604 ERROR Horse: Name is blank
+2024-11-21 15:50:24,605 ERROR Horse: Name is blank
+2024-11-21 15:50:24,607 ERROR Horse: Name is blank
+2024-11-21 15:50:24,608 ERROR Horse: Name is blank
+2024-11-21 15:50:25,291 ERROR Horse: Distance is negative
+2024-11-21 15:50:25,294 ERROR Horse: Name is null
+2024-11-21 15:50:25,299 ERROR Horse: Name is blank
+2024-11-21 15:50:25,301 ERROR Horse: Name is blank
+2024-11-21 15:50:25,303 ERROR Horse: Name is blank
+2024-11-21 15:50:25,305 ERROR Horse: Name is blank
+2024-11-21 15:50:25,307 ERROR Horse: Name is blank
+2024-11-21 15:50:25,327 ERROR Horse: Speed is negative
+2024-11-21 15:50:25,328 ERROR Horse: Speed is negative

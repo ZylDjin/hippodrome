@@ -9,7 +9,7 @@ class MainTest {
     @Test
     @Timeout(value = 22, unit = TimeUnit.SECONDS)
     @Disabled("Disabled until needed for manual execution")
-    void testMainExecutionTime() throws Exception {
+    void testMainExecutionTime()  {
         Main.main(new String[]{});
     }
 }

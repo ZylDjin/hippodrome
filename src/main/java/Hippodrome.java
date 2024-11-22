@@ -1,14 +1,14 @@
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import java.util.Collections;
-import java.util.Comparator;
+
 import java.util.List;
 
-import static java.util.Objects.isNull;
+
 
 public class Hippodrome {
     private static final Logger logger = LogManager.getLogger(Hippodrome.class);
+
     private final List<Horse> horses;
 
     public Hippodrome(List<Horse> horses) {
@@ -20,6 +20,7 @@ public class Hippodrome {
             logger.error("Horses list is empty");
             throw new IllegalArgumentException("Horses cannot be empty.");
         }
+
         this.horses = horses;
         logger.debug("Создание Hippodrome, лошадей [{}]", horses.size());
     }
@@ -33,8 +34,7 @@ public class Hippodrome {
     }
 
     public Horse getWinner() {
-        return horses.stream()
-                .max((h1, h2) -> Double.compare(h1.getDistance(), h2.getDistance()))
-                .orElse(null);
+        return horses.stream().max((h1, h2) -> Double.compare(h1.getDistance(), h2.getDistance())).orElse(null);
     }
 }
+

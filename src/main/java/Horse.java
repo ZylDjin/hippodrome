@@ -5,6 +5,7 @@ import static java.util.Objects.isNull;
 
 public class Horse {
     private static final Logger logger = LogManager.getLogger(Horse.class);
+
     private final String name;
     private final double speed;
     private double distance;
@@ -13,7 +14,8 @@ public class Horse {
         if (name == null) {
             logger.error("Name is null");
             throw new IllegalArgumentException("Name cannot be null.");
-        } else if (name.trim().isEmpty()) {
+        }
+        if (name.isBlank()) {
             logger.error("Name is blank");
             throw new IllegalArgumentException("Name cannot be blank.");
         }
@@ -29,6 +31,7 @@ public class Horse {
         this.name = name;
         this.speed = speed;
         this.distance = distance;
+
         logger.debug("Создание Horse, имя [{}], скорость [{}]", name, speed);
     }
 
@@ -49,10 +52,11 @@ public class Horse {
     }
 
     public void move() {
-        distance += speed * getRandomDouble(0.2, 0.9);
+        double randomFactor = getRandomDouble(0.2, 0.9);
+        distance += speed * randomFactor;
     }
 
     public static double getRandomDouble(double min, double max) {
-        return (Math.random() * (max - min)) + min;
+        return min + (Math.random() * (max - min));
     }
 }
